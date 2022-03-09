@@ -1,2 +1,0 @@
-línea 1
-línea 2: otro cambio, para probar si el cambio se refleja en el master

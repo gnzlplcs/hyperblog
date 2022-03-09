@@ -1,0 +1,2 @@
+línea 1: eliminé el archivo original 😭
+línea 2: usar git rm con mucho cuidado ⚠️
